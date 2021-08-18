@@ -670,7 +670,7 @@ section {
   left: 0;
   right: 0;
   bottom: 0;
-  opacity: 1;
+  opacity: .7;
 }
 
 .portfolio .portfolio-wrap:hover .portfolio-info {
@@ -892,6 +892,7 @@ section {
   background-color: #0563bb !important;
 }
 
+
 @media (min-width: 992px) {
   .testimonials .testimonial-item p {
     width: 80%;
@@ -989,3 +990,8 @@ section {
   /* margin: 0 0 40px 0; */
   margin: auto;
 }
+
+.last-updates {
+  margin-bottom: 0;
+}
+
